@@ -1,0 +1,10 @@
+.bg-circle {
+  background: radial-gradient(#ffffff1b 5%, transparent 50%);
+  border-radius: 50%;
+  width: 500px !important;
+  height: 500px !important;
+  position: absolute;
+  display: block;
+  margin-left: -250px !important;
+  margin-top: -175px !important;
+}
